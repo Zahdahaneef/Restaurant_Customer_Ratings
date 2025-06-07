@@ -79,6 +79,6 @@ We tried 3 machine learning models to predict the customer rating:
 
 ## 👩‍💻 Author
 Zahadana Haneef Thundhakkachi
-📅 Project Date: May 2025
-📍 Organization: Cognifyz Technology
+Data Analyst
+
 
