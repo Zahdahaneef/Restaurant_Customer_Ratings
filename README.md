@@ -79,6 +79,7 @@ We tried 3 machine learning models to predict the customer rating:
 
 ## 👩‍💻 Author
 Zahadana Haneef Thundhakkachi
+
 Data Analyst
 
 
