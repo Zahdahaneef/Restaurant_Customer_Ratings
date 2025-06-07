@@ -1,6 +1,4 @@
-# Restaurant_Customer_Ratings
-
-# 🍽️ Restaurant Customer Ratings Analysis
+# 🍽️ Restaurant_Customer_Ratings
 
 Welcome to the **Restaurant Customer Ratings** project!  
 This project explores what makes restaurants popular and how different factors affect their ratings.
