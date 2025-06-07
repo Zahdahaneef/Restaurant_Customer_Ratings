@@ -77,8 +77,10 @@ restaurant_analysis.ipynb – Main notebook with code and visuals
 dataset.csv – Dataset file (uploaded manually in Colab)
 README.md – Project overview
 
-👩‍💻 Author
+## 👩‍💻 Author
 Zahadana Haneef Thundhakkachi
+
 📅 Project Date: May 2025
+
 📍 Organization: Cognifyz Technology
 
