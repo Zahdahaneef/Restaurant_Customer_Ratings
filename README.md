@@ -66,12 +66,12 @@ We tried 3 machine learning models to predict the customer rating:
 
 ## 🛠️ Tools & Technologies Used
 
--Python 3
--Google Colab
--pandas, numpy
--matplotlib, seaborn
--plotly.express
--scikit-learn (for regression model)
+* Python 3
+* Google Colab
+* pandas, numpy
+* matplotlib, seaborn
+* plotly.express
+* scikit-learn (for regression model)
 
 ## 📁 Files Included
 
@@ -81,8 +81,6 @@ We tried 3 machine learning models to predict the customer rating:
 
 ## 👩‍💻 Author
 Zahadana Haneef Thundhakkachi
-
 📅 Project Date: May 2025
-
 📍 Organization: Cognifyz Technology
 
