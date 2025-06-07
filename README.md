@@ -65,7 +65,8 @@ We tried 3 machine learning models to predict the customer rating:
 - Top-rated cuisines include **Modern Indian**, **Seafood**, and **Thai**.
 
 ## 🛠️ Tools & Technologies Used
-Python 3
+
+-Python 3
 -Google Colab
 -pandas, numpy
 -matplotlib, seaborn
@@ -73,9 +74,10 @@ Python 3
 -scikit-learn (for regression model)
 
 ## 📁 Files Included
-restaurant_analysis.ipynb – Main notebook with code and visuals
-dataset.csv – Dataset file (uploaded manually in Colab)
-README.md – Project overview
+
+* restaurant_analysis.ipynb – Main notebook with code and visuals
+* dataset.csv – Dataset file (uploaded manually in Colab)
+* README.md – Project overview
 
 ## 👩‍💻 Author
 Zahadana Haneef Thundhakkachi
